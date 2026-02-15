@@ -1,7 +1,9 @@
 # Gemini_3_Hackathon_submission — Technical README
 
 ![Powered by Gemini 3](https://img.shields.io/badge/powered%20by-Gemini%203-4285F4?logo=google&logoColor=white)
-![Note:this repo is for further development of DevCollab for inital hackathon submission stage of DevCollab kindly go to the following link](https://github.com/shivangdevina/Gemini_3_Hackathon_submission)
+![Note:this repo is for further development of DevCollab for inital hackathon submission stage of DevCollab kindly go to the following link]
+
+![link](https://github.com/shivangdevina/Gemini_3_Hackathon_submission)
 
 A full-stack hackathon submission combining a FastAPI backend, GenAI-enabled notebooks (LangChain + Google GenAI / Gemini 3), Supabase for persistence, Cloudinary for file storage, and a Vite + React + TypeScript frontend. This README documents the architecture, AI implementation (with emphasis on Gemini 3), setup, key APIs, developer workflow, and security recommendations.
 
@@ -438,3 +440,4 @@ If you want, I can:
 - Migrate auth endpoints to use JWT and secure password hashing (I can produce a small patch).
 
 - Write example notebook glue code that shows a working LangChain → Gemini 3 pipeline for PDF summarization and PRD-to-TODO conversion.
+
