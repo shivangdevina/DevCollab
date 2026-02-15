@@ -1,7 +1,10 @@
 # Gemini_3_Hackathon_submission — Technical README
 
 ![Powered by Gemini 3](https://img.shields.io/badge/powered%20by-Gemini%203-4285F4?logo=google&logoColor=white)
-![Note:this repo is for further development of DevCollab for inital hackathon submission stage of DevCollab kindly go to the following link]
+
+
+
+Note:this repo is for further development of DevCollab for inital hackathon submission stage of DevCollab kindly go to the following link
 
 ![link](https://github.com/shivangdevina/Gemini_3_Hackathon_submission)
 
@@ -440,4 +443,5 @@ If you want, I can:
 - Migrate auth endpoints to use JWT and secure password hashing (I can produce a small patch).
 
 - Write example notebook glue code that shows a working LangChain → Gemini 3 pipeline for PDF summarization and PRD-to-TODO conversion.
+
 
